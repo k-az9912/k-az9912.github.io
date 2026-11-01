@@ -1,0 +1,15 @@
+# Local portfolio editor (not part of the published site)
+/local-admin/
+/Start-Editor.command
+
+# Local data backups
+/content.js_old
+/content.js.old
+/content.js.bak
+
+# OS / editor temporary files
+.DS_Store
+*.swp
+*~
+__pycache__/
+*.pyc
